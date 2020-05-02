@@ -6,6 +6,6 @@ Descriere: Jocul urmareste regulile de baza ale unui meci de biliard si se joaca
 
 Help:
 
-Pentru a seta puterea cu care bila alba este aruncata, jucatorul are in dreapta ecranului o bara de putere, care se umple pe masura ce butonul click-stanga al mouse-ului este apasat. Cu cat bara de putere este mai plina, cu atat bila va fi trasa cu viteza mai mare;
-Pentru a descoperi al cui jucator este randul, in partea de sus a ecranului este trecut in permanenta, cu scrisul marit, numele jucatorului activ;
-Odata stabilite seturile de bile corespunzatoare fiecarui jucator, acestea sunt trecute dedesubtul numelui fiecaruia.
+* Pentru a seta puterea cu care bila alba este aruncata, jucatorul are in dreapta ecranului o bara de putere, care se umple pe masura ce butonul click-stanga al mouse-ului este apasat. Cu cat bara de putere este mai plina, cu atat bila va fi trasa cu viteza mai mare;
+* Pentru a descoperi al cui jucator este randul, in partea de sus a ecranului este trecut in permanenta, cu scrisul marit, numele jucatorului activ;
+* Odata stabilite seturile de bile corespunzatoare fiecarui jucator, acestea sunt trecute dedesubtul numelui fiecaruia.
